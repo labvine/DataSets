@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<events formatVersion="1.0">
+	<type id="0x1000011" strId="Technical_ExamStart" name="Początek badania" keywords="begin;poczatk;start;zacz;Exam Start" color="909090" shape="Tag" attributes="0x10007">
+		<event time="1510853186733306">
+			<info type="2" time="2017-11-16T18:26:26.733+01:00"/>
+		</event>
+	</type>
+	<type id="0x1000013" strId="Technical_ExamPause" name="Przerwa" keywords="break;pauza;zapauz;Pause" description="Przerwa w badaniu" color="909090" shape="Tag" attributes="0x10007">
+		<event time="1510855009747227">
+			<info type="2" time="2017-11-16T18:56:49.747+01:00"/>
+		</event>
+	</type>
+</events>

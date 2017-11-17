@@ -1,0 +1,23 @@
+INFORMACJE O BADANIU
+Użyte kanały
+NR		Kanał		Typ		Jednostka
+1		Fp1			EEG		uV
+2		Fp2			EEG		uV
+3		F3			EEG		uV
+4		F4			EEG		uV
+5		C3			EEG		uV
+6		C4			EEG		uV
+7		P3			EEG		uV
+8		P4			EEG		uV
+9		O1			EEG		uV
+10		O2			EEG		uV
+11		Cz			EEG		uV
+
+Ground: AFz
+Elektroda referencyjna: połączone płatki uszne
+Częstotliwość próbkowania sygnału: 499,99 Hz
+Typ i wersja głowicy: EEGDigiTrack ExG-32-USB (32-channel ExG Amplifier) b
+
+INFORMACJE O PLIKACH
+data-raw.edf: surowy sygnał
+data-filtered-re-referenced.edf: surowy sygnał przefiltrowany 0.5-70 Hz, re-referowany do Cz
